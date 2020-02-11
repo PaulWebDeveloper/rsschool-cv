@@ -1,1 +1,1 @@
-### https://paulwebdeveloper.github.io/rsschool-cv/cv
+### https://paulwebdeveloper.github.io/rsschool-cv/
